@@ -8,11 +8,6 @@ REST API для управления фитнес-центром. Данные �
 | ------------- | ------------- |
 | Язык | C# |
 | Хранилище | In-memory (Map) |
-| First Header | Second Header |
-| ------------- | ------------- |
-| Content Cell | Content Cell |
-| Content Cell | Content Cell |
-
 
 # Модели данных 
 
